@@ -20,5 +20,5 @@
 - git reflog 查看命令历史
 - git checkout -b 分支名 创建新的分支并切换 等效下面两条命令
 - git branch 分支名
-- git checkout 分支名
+- git checkout 分支名 （在master修改的）
 - git branch 查看分支 当前分支前有*
