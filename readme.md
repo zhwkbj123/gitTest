@@ -18,3 +18,4 @@
 - git reset --hard commit_id 根据id在版本间穿梭
 - git log 查看提交历史 --pretty=oneline 显示简洁信息
 - git reflog 查看命令历史
+- git 
