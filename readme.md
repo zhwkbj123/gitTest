@@ -18,4 +18,7 @@
 - git reset --hard commit_id 根据id在版本间穿梭
 - git log 查看提交历史 --pretty=oneline 显示简洁信息
 - git reflog 查看命令历史
-- git 
+- git checkout -b 分支名 创建新的分支并切换 等效下面两条命令
+- git branch 分支名
+- git checkout 分支名
+- git branch 查看分支 当前分支前有*
