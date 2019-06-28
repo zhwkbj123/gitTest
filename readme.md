@@ -1,9 +1,9 @@
-#这首我的一份Markdown文件
+# 这首我的一份Markdown文件
 
 将使用git管理
 我添加了一行改动
 
-##git 命令总结
+## git 命令总结
 
 - git init 创建版本库
 - git config user.name 查看用户名
@@ -22,3 +22,5 @@
 - git branch <分支名> 创建分支
 - git checkout <分支名> 切换分支
 - git branch 查看分支 当前分支前有*
+- git branch -d <分支名> 删除分支
+- git merge <分支名> 合并某分支到当前分支
